@@ -177,7 +177,7 @@
     }
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
     .select-box-criteria {
 
         .select-box-criteria-box {
