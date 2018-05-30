@@ -1,7 +1,7 @@
 /**
  * @author Moodles
  * @author Jannick Berkhout (jannick@moodles.nl)
- * @version 1.0.2
+ * @version 1.0.3
  * @description A useful selectbox component for vue.js
  */
 
